@@ -12,7 +12,7 @@
 - 📄  View my resume [here](https://drive.google.com/file/d/1gOfQFS0jdFlMhEKMN6noHSN1XOxAn5uH4KAnXQN89oI/view).
 
 ## ⚙️ Current Projects
-- **Recipe Web Scraper:** Developing a web scraper using Cheerio and React to neatly extract the ingredients, directions, and image from recipe websites, eliminating the extra fluff.
+- **No BSipes:** Developing a web scraper using Cheerio and React to neatly extract the ingredients, directions, and image from recipe websites, eliminating the extra fluff.
 - **Side Chick:** Designing a concept site for a popup restaurant named "Side Chick", which adds a tantalizing twist to traditional dining as it only opens on Sundays.
 
 
