@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 - 🌍  I'm based in Southern California</li>
 - 🖥️  See my portfolio at [www.goresometimes.com](http://www.goresometimes.com/)
-- 📄  View my resume [here](https://drive.google.com/file/d/1gOfQFS0jdFlMhEKMN6noHSN1XOxAn5uH4KAnXQN89oI/view).
+- 📄  View my resume [here](https://drive.google.com/file/d/1bg9jbPY4iZthCn5vxnpPWSb0c8EwtZe7P6l4onyCrV4/view).
 
 ## ⚙️ Current Projects
 - **No BSipes:** Developing a web scraper using Cheerio and React to neatly extract the ingredients, directions, and image from recipe websites, eliminating the extra fluff.
@@ -37,4 +37,4 @@ Let's connect! You can reach me at [gore.auluck@gmail.com](mailto:gore.auluck@gm
 
 ## 🌐 Socials
 
-<p align="left"> <a href="https://www.github.com/GSometimes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gore-auluck" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/gore-auluck" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
