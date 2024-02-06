@@ -1,4 +1,4 @@
-# Hello, I'm Gore Auluck! 👋 
+# Hello, I'm Gore! 👋 
 
 ## A Chef-turned-Frontend Developer Crafting Tasty Digital Experiences
 <p>Passionate and creative frontend developer with a knack for designing visually compelling and user-friendly interfaces. With 2 years of experience in the tech industry, I leverage my skills in HTML, CSS, JavaScript, and modern frameworks like React, to hand-craft solutions that are as stunning as they are functional.</p>
