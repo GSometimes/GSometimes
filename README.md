@@ -12,6 +12,7 @@
 - 📄  View my resume [here](https://drive.google.com/file/d/1bg9jbPY4iZthCn5vxnpPWSb0c8EwtZe7P6l4onyCrV4/view).
 
 ## ⚙️ Current Projects
+- **Seeker AI:** Developing an AI shopping assistant blending OpenAI with the MERN Stack to effortlessly connect you with products and services tailored just for you.
 - **No BSipes:** Developing a web scraper using Cheerio and React to neatly extract the ingredients, directions, and image from recipe websites, eliminating the extra fluff.
 - **Side Chick:** Designing a concept site for a popup restaurant named "Side Chick", which adds a tantalizing twist to traditional dining as it only opens on Sundays.
 
