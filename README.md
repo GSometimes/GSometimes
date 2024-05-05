@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 - 🌍  I'm based in Southern California</li>
-- 🖥️  See my portfolio at [www.goresometimes.com](http://www.goresometimes.com/)
+- 🖥️  See my portfolio at [www.goreauluck.com](https://goreauluck.com/)
 - 📄  View my resume [here](https://drive.google.com/file/d/1bg9jbPY4iZthCn5vxnpPWSb0c8EwtZe7P6l4onyCrV4/view).
 
 ## ⚙️ Current Projects
