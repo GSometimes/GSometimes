@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 - 🌍  I'm based in Southern California</li>
 - 🖥️  See my portfolio at [www.goreauluck.com](https://goreauluck.com/)
-- 📄  View my resume [here](https://drive.google.com/file/d/1bg9jbPY4iZthCn5vxnpPWSb0c8EwtZe7P6l4onyCrV4/view).
+- 📄  View my resume [here](https://drive.google.com/file/d/1psuMzRl18CTQMGbGyUszpZ82a1NtpsliGemtSDhia6E/view).
 
 ## ⚙️ Current Projects
 - **Seeker AI:** Developing an AI shopping assistant blending OpenAI with the MERN Stack to effortlessly connect you with products and services tailored just for you.
