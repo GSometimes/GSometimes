@@ -1,10 +1,9 @@
 # Hello, I'm Gore! 👋 
 
 ## A Chef-turned-Frontend Developer Crafting Tasty Digital Experiences
-<p>Passionate and creative frontend developer with a knack for designing visually compelling and user-friendly interfaces. With 2 years of experience in the tech industry, I leverage my skills in HTML, CSS, JavaScript, and modern frameworks like React, to hand-craft solutions that are as stunning as they are functional.</p>
-<p>Coming from a background as a Chef, I bring a unique approach to development. I treat every project like a culinary masterpiece, where the right mix of simple ingredients leads to a sensory feast that leaves a lasting impression. Whether it's crafting a dish or a website, my creativity and attention to detail are what set me apart.</p>
-<p>Throughout my career, I've had the pleasure of working with top-tier clients and have been instrumental in driving large-scale projects. From creating engaging user experiences at MediaNews Group to providing high-quality instructional support at General Assembly, my diverse experiences have honed my ability to deliver and exceed expectations.
-</p>
+<p>I'm a frontend developer with a passion for crafting engaging digital experiences. For the past three years, I’ve been designing and building user interfaces that are both visually compelling and intuitive. I love solving problems through thoughtful UI design, clean code, and interactive experiences that make an impact.</p>
+<p>Beyond development, I’m deeply invested in mentoring and helping others transition into tech. As an instructor at General Assembly, I’ve had the privilege of guiding hundreds of students in JavaScript, React, and TypeScript, helping them build the skills to launch their careers.</p>
+<p>Currently, I contribute to large-scale projects at MediaNews Group, where I build and refine UI components used across 100+ news sites, improving accessibility and performance for millions of users.</p>
 
 ## 👨‍💻 About Me
 - 🌍  I'm based in Southern California</li>
@@ -30,12 +29,8 @@
 ## 📚 What I'm Learning 
 Currently, I am delving into Next.js, Framer Motion, and TypeScript to further enhance my technical prowess. I am also continuously building upon my knowledge of React, aiming to stay at the forefront of the latest industry trends and best practices.
 
-## 🤝 Let's Collaborate 
-I am open to collaborating on projects that require a touch of creativity coupled with robust technical implementation. Whether it's a fresh interface design, a dynamic web application, or a novel idea that needs a frontend touch, feel free to reach out.
-
 ## 📫 Get In Touch
 Let's connect! You can reach me at [gore.auluck@gmail.com](mailto:gore.auluck@gmail.com).
 
 ## 🌐 Socials
-
 <p align="left"><a href="https://www.linkedin.com/in/gore-auluck" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
