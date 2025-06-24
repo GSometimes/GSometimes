@@ -1,14 +1,13 @@
 # Hello, I'm Gore! 👋 
 
-## A Chef-turned-Frontend Developer Crafting Tasty Digital Experiences
-<p>I'm a frontend developer with a passion for crafting engaging digital experiences. For the past three years, I’ve been designing and building user interfaces that are both visually compelling and intuitive. I love solving problems through thoughtful UI design, clean code, and interactive experiences that make an impact.</p>
-<p>Beyond development, I’m deeply invested in mentoring and helping others transition into tech. As an instructor associate at General Assembly, I’ve had the privilege of helping hundreds of students in JavaScript, React, and TypeScript, helping them build the skills to launch their careers.</p>
-<p>Currently, I contribute to large-scale projects at MediaNews Group, where I build and refine UI components used across 100+ news sites, improving accessibility and performance for millions of users.</p>
+## A Chef turned Software Engineer
+<p>Software Engineer with 4 years of experience building web applications and mentoring others as they break into tech.
+Brings a user-first approach to craft digital experiences that are engineered to be scalable, reliable, and optimized.</p>
 
 ## 👨‍💻 About Me
 - 🌍  I'm based in Southern California</li>
 - 🖥️  See my portfolio at [www.goreauluck.com](https://goreauluck.com/)
-- 📄  View my resume [here](https://drive.google.com/file/d/1psuMzRl18CTQMGbGyUszpZ82a1NtpsliGemtSDhia6E/view).
+- 📄  View my resume [here](https://drive.google.com/file/d/1GbYFYMgsYU3qsKOk2RR-1btWEnErw437rmBeHpuxkm8/view).
 
 ## ⚙️ Current Projects
 - **Seeker AI:** Developing an AI shopping assistant blending OpenAI with the MERN Stack to effortlessly connect you with products and services tailored just for you.
