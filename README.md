@@ -1,8 +1,6 @@
 # Hello, I’m Gore 👋  
 
-Software Engineer with 4 years of experience building web apps, modernizing legacy systems, and mentoring others as they break into tech. 
-
-I build tools that make teams faster, developers happier, and user experiences memorable.
+Software Engineer with 4 years of experience building web apps, modernizing legacy systems, and mentoring others as they break into tech. I build tools that make teams faster, developers happier, and user experiences memorable.
 
 Reach me here, gore.auluck@gmail.com.
 
