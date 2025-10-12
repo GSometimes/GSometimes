@@ -6,4 +6,4 @@ Reach me here, gore.auluck@gmail.com.
 
 Connect with me here, [LinkedIn](https://www.linkedin.com/in/gore-auluck).
 
-View my resume [here](https://drive.google.com/file/d/1GbYFYMgsYU3qsKOk2RR-1btWEnErw437rmBeHpuxkm8/view).
+View my resume [here](https://drive.google.com/file/d/1wGcDUE8UeVBRk3yN6AIhnuTxII_9YKfNAB7iXtNwSE4/view).
