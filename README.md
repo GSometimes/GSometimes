@@ -1,6 +1,6 @@
-## Frontend Focused Software Engineer  
+## Frontend Engineer  
 
-Hey. I'm Gore, a frontend focused software engineer with 4 years of experience building web apps, modernizing legacy systems, and mentoring others as they break into tech. I build tools that make teams faster, developers happier, and user experiences memorable.
+Hey. I'm Gore, a frontend engineer with 4 years of experience building web apps, modernizing legacy systems, and mentoring others as they break into tech. I build tools that make teams faster, developers happier, and user experiences memorable.
 
 Reach me here, gore.auluck@gmail.com.
 
